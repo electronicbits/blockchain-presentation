@@ -1,2 +1,2 @@
 # blockchain-presentation
-A small blockchain introductory presentation for nib
+A small blockchain introductory presentation
